@@ -1,11 +1,11 @@
-.intro__title{
+.place__title {
     color: #ffffff;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
-    width: 690px;
-    height: 58px;
-    font-size: 54px;
-    line-height: 58px;
+    font-size: 72px;
+    line-height: 76px;
+    width: 460px;
+    height: 152px;
     margin-top: 92px;
-}    
+}

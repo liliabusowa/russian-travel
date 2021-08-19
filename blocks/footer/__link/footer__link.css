@@ -1,11 +1,10 @@
-.intro__text{
+.footer__link {
     color: #ffffff;
-    width: 690px;
-    height: 208px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
-    line-height: 163%;
-    margin-top: 40px;
-}  
+    line-height: 18px;
+    width: 50px;
+    height: 18px;
+}

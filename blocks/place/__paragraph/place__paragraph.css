@@ -1,11 +1,11 @@
-.intro__text{
+.place__paragraph {
     color: #ffffff;
-    width: 690px;
-    height: 208px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: normal;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 163%;
-    margin-top: 40px;
-}  
+    width: 484px;
+    height: 145px;
+    margin-top: 26px;
+}
