@@ -1,0 +1,17 @@
+@media screen and (max-width: 320px) {
+    .place__paragraph_mod {
+        margin-top: -7px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .place__paragraph_mod {
+        margin-top: -21px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .place__paragraph_mod {
+        margin-top: -22px;
+    }
+}
