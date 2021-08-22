@@ -1,12 +1,16 @@
 .cover {
-    border: 1px solid #2a2c2f;
+    border: 0.1px solid #2a2c2f;
     width: 90%;
     margin: 92px auto 0 auto;
     position: relative;
 }
 
+.cover:hover .cover__background{
+    opacity: 0.3;
+}
+
 @media screen and (max-width: 1024px) {
     .cover {
-        width: 100%;
+        width: 99%;
     }
 }

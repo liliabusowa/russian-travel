@@ -5,7 +5,3 @@
     opacity: 0.7;
     position: absolute;
 }
-
-.cover__background:hover {
-    opacity: 0.3;
-}
