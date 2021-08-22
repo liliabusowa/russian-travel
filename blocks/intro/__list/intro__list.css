@@ -9,7 +9,7 @@
     list-style-type: none;
     padding-left: 0;
 }
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .intro__list {
         margin-top: 34px;
     }
