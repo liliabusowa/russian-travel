@@ -8,3 +8,14 @@
     margin-left: 16px;
     align-self: flex-end;
 }
+
+@media screen and (max-width: 425px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+
+.header__lang-link:hover {
+    opacity: 0.3;
+}

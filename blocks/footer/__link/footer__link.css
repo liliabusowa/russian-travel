@@ -9,7 +9,7 @@
     text-decoration: none;
 }
 
-.footer__link:nth-child(5n) {
+.footer__link:last-child {
     margin-right: 0;
 }
 
