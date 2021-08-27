@@ -8,18 +8,19 @@
     max-width: 560px;
     max-height: 152px;
     position: relative;
-    margin: 245px auto 0 auto;
+    margin: 0 auto 0 auto;
+    padding-top: 245px;
 }
 
 @media screen and (max-width: 1024px) {
     .cover__title {
-        margin-top: 195px;
+        padding-top: 195px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover__title {
-        margin-top: 115px;
+        padding-top: 115px;
     }
 }
 
@@ -28,7 +29,8 @@
         max-width: 75%;
         font-size: 32px;
         line-height: 35px;
-        margin-top: 33px;
+        /*margin-top: 33px;*/
+        padding-top: 33px;
         
     }
 }
