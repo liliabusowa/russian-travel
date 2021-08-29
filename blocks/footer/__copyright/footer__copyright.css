@@ -5,7 +5,7 @@
     font-size: 14px;
     line-height: 16px;
     text-align: right;
-    width: 186px;
+    max-width: 186px;
     margin: 0;
     justify-self: start;
     align-self: start;
