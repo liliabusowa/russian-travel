@@ -15,6 +15,3 @@
 * HTML  
 * CSS  
 * Методология именования БЭМ  
-
-*Ссылка на сайт:* 
-https://liliabusowa.github.io/russian-travel/index.html
